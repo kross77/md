@@ -11,8 +11,8 @@
 - Oversaw and optimized internal processes to enhance efficiency.  
 
 ### Key Achievements:
-- Increased organic website traffic by implementing targeted SEO strategies.  
-- Enhanced team productivity by introducing process improvements.  
+- Increased organic website traffic by **30%**, leading to a **20% increase in customer inquiries**.  
+- Reduced project turnaround time by **15%** through process optimization, improving client satisfaction.
 
 ---
 
@@ -27,8 +27,8 @@
 - Maintained regular communication with stakeholders to align on marketing goals.  
 
 ### Key Achievements:
-- Unified brand messaging across platforms, boosting customer engagement.  
-- Successfully managed marketing campaigns within strict regulatory frameworks.  
+- Unified brand messaging across platforms, resulting in a **25% increase in customer engagement**.  
+- Successfully launched new campaigns under tight regulatory constraints, increasing monthly revenue by **18%**.
 
 ---
 
@@ -43,8 +43,8 @@
 - Managed SEO projects to meet client expectations.  
 
 ### Key Achievements:
-- Improved client satisfaction by delivering measurable SEO results.  
-- Streamlined project workflows to increase team efficiency.  
+- Delivered SEO results that increased client website traffic by **40%**, contributing to a **15% growth in conversions**.  
+- Implemented workflow improvements, reducing task delays by **20%**, and improving project efficiency.
 
 ---
 
@@ -59,8 +59,8 @@
 - Briefed in-house designers for marketing campaigns.  
 
 ### Key Achievements:
-- Launched a new online store with enhanced user experience.  
-- Increased product visibility through optimized SEO strategies.  
+- Successfully launched a new online store, increasing sales by **25%** within the first three months.  
+- Improved product visibility in search results, leading to a **20% increase in website traffic**.
 
 ---
 
@@ -75,8 +75,8 @@
 - Engaged with customers through targeted messaging.  
 
 ### Key Achievements:
-- Improved campaign effectiveness with personalized communication.  
-- Increased customer retention through engaging digital marketing efforts.  
+- Enhanced email campaign performance, resulting in a **35% increase in click-through rates** and improved product sign-ups.  
+- Boosted customer retention by **15%** through effective segmentation and targeted campaigns.
 
 ---
 
@@ -91,5 +91,5 @@
 - Oversaw and grew the company’s YouTube channel.  
 
 ### Key Achievements:
-- Boosted social media engagement by crafting compelling content.  
-- Enhanced email marketing metrics (open and click-through rates).  
+- Increased YouTube channel engagement by **50%**, contributing to higher brand visibility and customer interest.  
+- Boosted social media-driven sales by **20%** through effective SMM strategies and content optimization.  
